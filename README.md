@@ -1,22 +1,22 @@
-#How To Run
+# How To Run
 
-->Click on the [Aracde Game](www.google.com)
+-> Click on the [Aracde Game](https://ms10398.github.io/Arcade-Game-P-5/index.html)
 
-#Canges In Index
+# Changes In Index
 
-->h2 tag with id added in index.html for displaying score,game level,life
+-> h2 tag with id added in index.html for displaying score,game level,life
 
-#Changes In App
+# Changes In App
 
-->function for random enemy speed added 
+-> Function for random enemy speed added 
 
-->check for life added 
+-> Check for life added 
 
-->check for collision added
+-> Check for collision added
 
-->when count increments by 3 the level increases and speed of enemy too
+-> When count increments by 3 the level increases and speed of enemy too
 
-->input for movement added
+-> Input for movement added
 
-->bounds added
+-> Bounds added
 
